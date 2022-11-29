@@ -8,3 +8,5 @@ Seminar title:
 Date: 29 Nov 2022
 
 Slides are available both in Italian and in English.
+
+Complete viedo recording of the seminar is available on YouTube at the following [link]( https://youtu.be/M2IaEme-tS0).
