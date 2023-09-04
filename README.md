@@ -2,7 +2,7 @@
 
 This repository contains slides presentations (and posters) of seminars I had in different events, about **quantum computing** and **quantum machine learning**.
 
-## Dissemination:
+## Dissemination:
 
 ### 2022
 
