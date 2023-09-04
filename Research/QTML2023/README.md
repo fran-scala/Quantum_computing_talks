@@ -4,6 +4,7 @@ This folder contains the slides for a seminar of the ["Quantum Techniques in Mac
 Seminar title: ***COMING SOON***
 
 Date: Nov 2023
+
 Speaker: Francesco Scala 
 
 Reference Paper: 

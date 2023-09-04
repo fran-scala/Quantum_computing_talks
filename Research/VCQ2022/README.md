@@ -4,6 +4,7 @@ This folder contains the slides for a seminar of the ["VCQ and AppQInfo 2022 Sum
 Seminar title: ***Quantum Variational Learning for Entanglement Witnessing***
 
 Date: Set 2022
+
 Speaker: Francesco Scala 
 
 Reference Paper: 

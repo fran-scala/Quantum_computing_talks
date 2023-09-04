@@ -4,6 +4,7 @@ This folder contains the slides for a seminar of the "Quantum Technologies Summe
 Seminar title: ***In viaggio verso il Quantum Machine Learning***
 
 Date: 05 Set 2023
+
 Speaker: Francesco Scala 
 
 Slides are available in Italian only.

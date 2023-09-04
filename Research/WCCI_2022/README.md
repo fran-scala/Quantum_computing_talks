@@ -4,6 +4,7 @@ This folder contains the slides for a seminar of the ["WCCI2022 IEEE World Congr
 Seminar title: ***Quantum Variational Learning for Entanglement Witnessing***
 
 Date: Jul 2022
+
 Speaker: Francesco Scala 
 
 Reference Paper: 

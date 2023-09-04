@@ -4,6 +4,7 @@ This folder contains the slides for a seminar of the ["Optics of Excitons in Con
 Seminar title: ***Quantum computing platform with polariton integrated circuits***
 
 Date: Jun 2023
+
 Speaker: Francesco Scala 
 
 Reference Paper: 
