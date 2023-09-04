@@ -1,12 +1,27 @@
-# Quantum computing seminar @UNIPV
-This repository contains the slides for the cycle of seminars "Incontri di Fisica Moderna" @UNIPV, including the offical announcement  poster of the event.
+# Quantum Computing Slides 
 
-Seminar title: 
+This repository contains slides presentations (and posters) of seminars I had in different events, about **quantum computing** and **quantum machine learning**.
 
-***Quantum computing***       From algorithms to artificial intelligence: challenges and promises of an emerging technology.
+## Dissemination:
 
-Date: 29 Nov 2022
+### 2022
 
-Slides are available both in Italian and in English.
+- Incontri di Fisica Moderna 2022/2023 @UNIPV: 29 Nov 2022
 
-Complete video recording of the seminar (in Italian) is available on YouTube at the following [link]( https://youtu.be/M2IaEme-tS0).
+### 2023
+
+- Quantum Technologies Summer School 2023 @UNIPV: 05 Set 2023
+
+## Research:
+
+### 2022
+
+- Quantum Computing Hardware and Software Summer School (QCHS) 2022
+- WCCI2022 IEEE World Congress on Computational Intelligence
+- VCQ and AppQInfo 2022 Summer School - Concepts and applications of Quantum Information
+- Quantum Techniques in Machine Learning (QTML2022)
+
+### 2023
+
+- Optics of Excitons in Confined Systems (OECS18)
+- Quantum Techniques in Machine Learning (QTML2023)
